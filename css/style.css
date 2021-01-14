@@ -1,0 +1,17 @@
+.header-name{
+    font-size: 50px;
+    font-weight: 700;
+}
+.header-name span, h2{
+    color: #fb8130
+}
+.nike-card-footer{
+    background:  white;
+    border: 0;
+}
+.shoes-border, .service-border{
+   border-radius: 1em;
+}
+.img-border{
+    border-radius: 1em;
+}
